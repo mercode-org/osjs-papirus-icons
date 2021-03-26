@@ -1,17 +1,17 @@
 {
   "type": "icons",
-  "name": "GnomeIcons",
+  "name": "PapirusIcons",
   "title": {
-    "en_EN": "Gnome Icons",
-    "fr_FR": "Icônes du bureau Gnome",
-    "sl_SI": "Ikone Gnome",
-    "pt_BR": "Ícones Gnome"
+    "en_EN": "Papirus Icons",
+    "fr_FR": "Icônes du bureau Papirus",
+    "sl_SI": "Ikone Papirus",
+    "pt_BR": "Ícones Papirus"
   },
   "description": {
-    "en_EN": "Gnome Icons",
-    "fr_FR": "Icônes du bureau Gnome",
-    "sl_SI": "Ikone Gnome",
-    "pt_BR": "Ícones Gnome"
+    "en_EN": "Papirus Icons",
+    "fr_FR": "Icônes du bureau Papirus",
+    "sl_SI": "Ikone Papirus",
+    "pt_BR": "Ícones Papirus"
   },
   "files": [
     "main.css"
